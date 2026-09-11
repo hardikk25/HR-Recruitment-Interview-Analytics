@@ -41,7 +41,7 @@ The project analyzes:
 * Recruitment status by department
 
  📊 Key Results
-* Total Applicants:** 5,000
+* Total Applicants 5,000
 * Offers: 1,000
 * Rejected: 1,000
 * In Progress: 3,000
